@@ -23,3 +23,21 @@ Mindrops is a meditation and relaxation app that offers interactive haptic-based
 <tr>
 
 <table>
+
+# Features
+- Animated logo splash screen
+- Forest video background with calming music
+- Uses SwiftUI and AVKit to provide a smooth user experience
+
+# Technology Used
+- SwiftUI: a modern UI framework for building iOS, macOS, and watchOS apps
+- AVKit: a framework for playing video content
+
+# Future Improvements
+
+- Add more interactive features to improve the user experience
+- Allow users to customize the background music and video
+- Add more meditation practices and techniques to help users relax and focus
+- Incorporate feedback and suggestions from users
+
+Overall, Mindrops is a promising meditation and relaxation app that could benefit from additional features and enhancements. With its immersive forest background and calming music, it provides a relaxing and engaging experience for users looking to destress and improve their mental health.
